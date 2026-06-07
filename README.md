@@ -144,9 +144,9 @@ python3 -m app.main
    - "Какие методы есть в CRM?"
    - "Как создать лид?"
 
----
-telegram.png
----
+# Скриншот работы бота
+
+![Telegram Bot](screenshots/telegram.png)
 
 ## Структура проекта
 
