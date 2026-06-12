@@ -194,7 +194,7 @@ python3 -m app.main
 
 # Скриншот работы бота
 
-![Telegram Bot](screenshots/telegram.png)
+![Telegram Bot](screenshots/telegram2.png)
 
 ## Структура проекта
 
